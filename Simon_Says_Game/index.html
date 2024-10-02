@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="style.css" rel="stylesheet" />
+    <title>Simon Says</title>
+  </head>
+  <body>
+    <div class="game-container">
+      <h1 class="text-center mt-5">Simon Says Game</h1>
+      <h2 id="level-display" class="text-center mt-3">
+        Press Any Key To Start The Game
+      </h2>
+      <div class="btn-container d-flex justify-content-center mt-5">
+        <div class="line-one d-flex justify-content-center">
+          <div class="btn red mx-2" type="button" id="red">1</div>
+          <div class="btn yellow mx-2" type="button" id="yellow">2</div>
+        </div>
+        <div class="line-two d-flex justify-content-center mt-5">
+          <div class="btn green mx-2" type="button" id="green">3</div>
+          <div class="btn purple mx-2" type="button" id="purple">4</div>
+        </div>
+      </div>
+      <p id="high-score" class="text-center mt-5"></p>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
