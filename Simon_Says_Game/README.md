@@ -27,13 +27,12 @@ A classic memory game where you must repeat the sequence of colors shown by Simo
 * Simple and intuitive gameplay
 * Increasing difficulty as the game progresses
 * Responsive design for a smooth user experience
-* High score tracking (optional)
+* High score tracking 
 
 **Technical Details**
 --------------------
 
 * Built with HTML, CSS, and JavaScript
-* Utilizes [insert any notable libraries or frameworks used]
 * Compatible with modern web browsers
 
 **Contributing**
