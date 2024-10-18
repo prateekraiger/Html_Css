@@ -10,14 +10,15 @@ A collection of HTML and CSS projects created by Prateek Raiger to demonstrate p
 
 A basic registration form built using HTML and CSS. The form includes fields for username, email, password, and password confirmation. The design is responsive and follows modern web development best practices.
 
-### 2. Spotify Clone
 
-A simplified clone of the Spotify web player, built using HTML and CSS. The design is inspired by the original Spotify layout and includes key features such as a navigation bar, playlist section, and album art.
-
-### 3. Simon Says Game
+### 2. Simon Says Game
 
 A interactive Simon Says game built using HTML, CSS, and JavaScript. The game includes a color-matching sequence that users must repeat to progress through levels. The design is simple, yet engaging, and provides a fun challenge for players.
 
+
+### 3. 3D Image Slider
+
+A rotating 3D slider showcasing my top 10 favorite web series, created using HTML and CSS.
 
 **About**
 --------
