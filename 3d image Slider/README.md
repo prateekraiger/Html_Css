@@ -2,7 +2,7 @@
 =============================================
 
 A 3D image slider showcasing my top 10 favorite web series in a rotating circular motion.
-!(sample.png)
+![alt text](sample.png)
 
 **Features**
 ------------

@@ -1,8 +1,8 @@
 **Simon Says Game**
 ================
-![alt text](image.png)
-A classic memory game where you must repeat the sequence of colors shown by Simon. Can you keep up?
 
+A classic memory game where you must repeat the sequence of colors shown by Simon. Can you keep up?
+![alt text](image.png)
 **Game Rules**
 -------------
 
