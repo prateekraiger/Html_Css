@@ -11,7 +11,7 @@ ByteCard is a basic e-commerce website built using HTML and CSS. This project sh
 * A simple navigation menu that allows users to browse through the products
 * A product grid that displays the images with their prices and a "Buy Now" button
 
-** Technologies Used**
+**Technologies Used**
 --------------------
 
 * HTML5 for structuring the content
